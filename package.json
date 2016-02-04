@@ -1,0 +1,22 @@
+{
+  "name": "hubot-mind-blown",
+  "version": "1.0.0",
+  "description": "For those special times when minds are blown",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lefthand/hubot-mind-blown.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "author": "lefthand <lefthand@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lefthand/hubot-mind-blown/issues"
+  },
+  "homepage": "https://github.com/lefthand/hubot-mind-blown#readme",
+  "dependencies": {
+  }
+}
